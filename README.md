@@ -21,3 +21,4 @@ Instead of brute force algorithm as the baseline for nearest neighbors, try to i
     <li>Celebrity Doppelgangers</li>
     <li>Spotify</li>
     <li>Image Captioning</li>
+  </ul>
