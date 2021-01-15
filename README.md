@@ -8,3 +8,4 @@ Learning objectives:
 3. Make the system more accurate and optimized
 4. Analyze case studies to see how these concepts are used in mainstream products.
 
+Find the dataset at https://drive.google.com/file/d/137RyRjvTBkBiIfeYBNZBtViDHQ6_Ewsp/view
