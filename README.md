@@ -13,3 +13,11 @@ Find the dataset at https://drive.google.com/file/d/137RyRjvTBkBiIfeYBNZBtViDHQ6
 
 <h2>Future Work:</h2>
 Instead of brute force algorithm as the baseline for nearest neighbors, try to implement the project using approximate nearest-neighbor(ANN) libraries like Spotify's Annoy, FLANN, Facebook's Faiss, Yahoo's NGT and NMSLIB.
+
+<h3>Case Studies examined <h3>
+  <ul>
+    <li>Flickr -> uses an ANN algorithm called Locally Optimized Product Quantization (LOPQ) </li>
+    <li>Pinterest</li>
+    <li>Celebrity Doppelgangers</li>
+    <li>Spotify</li>
+    <li>Image Captioning</li>
